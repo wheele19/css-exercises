@@ -35,7 +35,7 @@ a {
 
 ul {
   display: flex;
-  margin: 0;
-  padding: 0;
+  margin: 800px;
+  padding: 0px;
   gap: 8px;
 }
