@@ -9,6 +9,7 @@ img {
 .plants {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 .plant_info {
   text-align: center;
